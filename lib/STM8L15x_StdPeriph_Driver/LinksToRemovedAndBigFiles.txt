@@ -1,0 +1,10 @@
+To avoid adding big files to git: Please edit .gitignore and add links to file's origin below in this file.
+
+ 
+Help file on how to use STM8L15x_StdPeriph_Driver:
+	ST part number: STSW-STM8016 
+	What?: STM8L15x/16x/05x/AL3Lx/AL31x standard peripheral library
+	http://www.st.com/web/en/catalog/tools/PF257956
+	Ignored file names: 
+		stm8l15x-16x-05x_al31-l_stdperiph_drivers_um.chm
+		Release_Notes.html
